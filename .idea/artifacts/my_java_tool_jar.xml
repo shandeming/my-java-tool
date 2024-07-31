@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="my-java-tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/my_java_tool_jar</output-path>
+    <root id="archive" name="my-java-tool.jar">
+      <element id="module-output" name="my-java-tool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Users/29628/AppData/Local/Programs/Maven/warehouse/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
